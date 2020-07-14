@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## These functions compute the inverse of a matrix using caching 
 ## so that the computation does not need to be repeatedly typed out. 
 
